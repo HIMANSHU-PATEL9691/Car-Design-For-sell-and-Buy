@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+🏎️ AutoHub - Premium Car Marketplace
 
-## Project info
+AutoHub is a high-performance, full-stack web application designed for buying and selling luxury and premium vehicles. This platform provides a seamless experience for users to browse verified inventory, calculate financing, and list their own vehicles for sale.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🌟 Key Features
+Premium Inventory Gallery: A curated collection of luxury vehicles with detailed specifications, high-quality imagery, and verification badges.
 
-## How can I edit this code?
+Advanced Car Filtering: Real-time search and filter capabilities by brand, price range, and body type.
 
-There are several ways of editing your application.
+Dynamic EMI Calculator: Interactive tool for users to estimate monthly loan payments based on tenure and interest rates.
 
-**Use Lovable**
+Sell Your Car Workflow: A structured multi-step process for owners to list their vehicles for valuation.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Responsive & Animated UI: Fully mobile-responsive design featuring smooth scroll-reveal animations and a high-contrast Darkhttps://www.google.com/search?q=/Light mode toggle.
 
-Changes made via Lovable will be committed automatically to this repo.
+Full-Stack Ready: Structured with a clean component architecture, reusable hooks, and robust routing.
 
-**Use your preferred IDE**
+🛠️ Tech Stack
+Frontend: React.js with TypeScript.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Styling: Tailwind CSS for rapid, modern UI development.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Animations: Framer Motion for premium-feel transitions and interactions.
 
-Follow these steps:
+Icons: Lucide-React for a clean, consistent icon set.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Routing: React Router DOM for seamless single-page navigation.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+State Management: Optimized with TanStack Query and custom React hooks.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🚀 Getting Started
+Prerequisites
+Node.js (v18 or higher)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+npm or yarn
+
+Installation
+Clone the repository.
+
+Install dependencies:
+
+Bash
+
+npm install
+Start the development server:
+
+Bash
+
 npm run dev
-```
+📧 Contact for Full Source Code
+This project is built with a modular architecture, making it easy to integrate with a backend API (Node.jshttps://www.google.com/search?q=/Express or Firebase).
 
-**Edit a file directly in GitHub**
+If you are interested in the full working code, including the backend integration and database setup, please reach out via the contact information below:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Lead Developer: Himanshu Patel
 
-**Use GitHub Codespaces**
+Website: AutoHub India
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Inquiry: For full-stack implementation details or custom car marketplace solutions, use the Contact Page or call +91 9691365052.
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Built with passion for the Indian luxury automobile industry.
